@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://github.com/SakanaAI/AI-Scientist/blob/main/docs/logo_2.png">
     <img src="docs/logo_2.png" width="215" /></a><br>
-  <b>The AI Scientist: Towards Fully Automated</b><br>
+  <b>NEUTRON - The AI Scientist: Towards Fully Automated</b><br>
   <b>Open-Ended Scientific Discovery 🧑‍🔬</b><br>
 </h1>
 
